@@ -70,12 +70,3 @@ mounts:
         source: local
         source_path: logs
 
-
-
-
-
-
-
-dependencies:
-    python3:
-        'blackfire': '*'
