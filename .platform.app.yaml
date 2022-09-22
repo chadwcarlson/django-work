@@ -28,6 +28,7 @@ hooks:
 
     deploy: |
         python manage.py migrate
+        ./sanitize.sh
 
 ##########################
 # Web configuration
