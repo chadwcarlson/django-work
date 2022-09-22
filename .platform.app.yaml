@@ -69,3 +69,4 @@ mounts:
     'logs':
         source: local
         source_path: logs
+
