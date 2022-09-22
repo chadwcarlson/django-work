@@ -77,5 +77,5 @@ mounts:
 
 
 dependencies:
-    python:
-        'blackfire-python': '*'
+    python3:
+        'blackfire': '*'
